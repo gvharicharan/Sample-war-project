@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World from cloudbots_warproj v2.0</h2>
+<h2>Hello from cloud bots jenkins using deploy to container plugin...manual trigger of the pipeline v2.0</h2>
 </body>
 </html>
